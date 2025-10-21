@@ -55,7 +55,7 @@ This is a derivative dataset. Your use of this data is subject to the licenses a
 * **CC BY-SA 4.0**: allows you to share, adapt, and remix a work for any purpose, even commercially, as long as you provide attribution to the original creator and license any new works under the same CC BY-SA 4.0 license
 
 ### License for this Derivative Dataset (CLID)
-This curated dataset is licensed under [**Open Data Commons Open Database License (ODbL) v1.0**](LICENSE-1.md) for the image names starting with the prefix "mohamedhanyyy_" and [**CC BY-SA 4.0**](LICENSE-2.md) for rest of the images.
+This curated dataset is licensed under [**Open Data Commons Open Database License (ODbL) v1.0**](LICENSE-1.md) for the image names starting with the prefix "mohamedhanyyy_" and [**CC BY-SA 4.0**](LICENSE-2.md) for the rest of the images.
 
 ## 5. Contact
-For questions, bug reports, or suggestions, please  open an issue on the dataset's GitHub repository [CLID](https://github.com/My-Bad-2/CLID).
+For questions, bug reports, or suggestions, please open an issue on the dataset's GitHub repository [CLID](https://github.com/My-Bad-2/CLID).
