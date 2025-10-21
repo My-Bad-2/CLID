@@ -28,9 +28,10 @@ The dataset is organized into two main directories for each imaging modality.
 CLID/
 ├── CT Scan
 │   ├── adenocarcinoma
+│   ├── large_cell
 │   ├── normal
 │   └── squamous_cell
-├── Histo_Images/
+├── Histopathological Images/
 │   ├── adenocarcinoma
 │   ├── normal
 │   └── squamous_cell
