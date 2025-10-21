@@ -17,6 +17,10 @@ This dataset is a collection and aggregation of the following public datasets. W
 * Content Used: CT scans and Histopathological Images
 * Source: [Kaggle](https://www.kaggle.com/api/v1/datasets/download/programmer3/lung-ct-and-histopathological-images-dataset)
 * License: "CC0: Public Domain"
+2. Chest CT-Scan images Dataset
+* Description: It was a project about chest cancer detection using machine learning and deep leaning (CNN). We classify and diagnose if the patient have cancer or not using AI model. We give them the information about the type of cancer and the way of treatment. we tried to collect all data we need to make the model classify the images easily. So, I had to fetch data from many resources to start the project. I researched a lot to collect all the data from many resources and cleaned it for the CNN.
+* Source: [Kaggle](https://www.kaggle.com/api/v1/datasets/download/mohamedhanyyy/chest-ctscan-images)
+* License: "OBdL v1.0"
 
 ## 3. Dataset Structure
 The dataset is organized into two main directories for each imaging modality.
@@ -38,6 +42,7 @@ This is a derivative dataset. Your use of this data is subject to the licenses a
 
 ### Source License Summary
 * **CC0: Public Domain**: Public Domain. The work can be used, copied, modified, distributed, and built upon for any purpose—including commercial—with no conditions or attribution required, although giving credit is still appreciated.
+* **OBdL**: Allows you to freely copy, distribute, and adapt a database for any purpose, including commercial use. In return, you must provide appropriate credit to the original source and share any new or modified versions of the database under the same ODbL license.
 
 ### License for this Derivative Dataset (CLID)
 This curated dataset is licensed under [**Open Data Commons Open Database License (ODbL) v1.0**](LICENSE.md).
